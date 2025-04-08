@@ -4,7 +4,7 @@ Generate clash rule providers from https://github.com/v2fly/domain-list-communit
 
 ### Generated
 
-https://github.com/coldwater-10/V2rayDomains2Clash/tree/generated
+https://github.com/10ium/V2rayDomains2Clash/tree/generated
 
 ### Mirror
 
