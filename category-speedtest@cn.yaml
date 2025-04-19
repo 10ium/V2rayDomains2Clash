@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-speedtest
+
+# Behavior: domain
+
+payload:
+- "+.cnspeedtest.cn"
+- "+.speed.neu6.edu.cn"
+- "+.speed.nuaa.edu.cn"
+- "+.speedtest.cn"
+- "+.speedtest.mfcyun.com"
+- "+.speedtest.shu.edu.cn"
+- "+.test.nju.edu.cn"
+- "+.test.ustc.edu.cn"
