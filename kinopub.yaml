@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kinopub
+
+# Behavior: domain
+
+payload:
+- "+.gfw.ovh"
+- "+.kino.pub"
+- "+.kinopub.online"
+- "+.mos-gorsud.co"
