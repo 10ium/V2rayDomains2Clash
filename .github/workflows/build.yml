@@ -1,7 +1,7 @@
 name: Build
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: '30 0 * * *'   # 04:00 Tehran
   workflow_dispatch:
   push:
     paths-ignore:
